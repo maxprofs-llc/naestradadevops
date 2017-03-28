@@ -1,0 +1,33 @@
+baseurl = "https://www.naestradadevops.com"
+title = "Na Estrada DevOps"
+languageCode = "pt-br"
+paginate = "10" # Number of posts per page
+theme = "beautifulhugo"
+pygmentsUseClasses = true
+pygmentCodeFences = true
+disqusShortname = "naestradadevops"
+googleAnalytics = "UA-88288312-2"
+
+[Params]
+  subtitle = "Build a beautiful and simple website in minutes"
+  logo = "img/avatar-icon.png"
+  favicon = "img/favicon.ico"
+  dateFormat = "2 January, 2006"
+  commit = false
+  rss = true
+  comments = true
+
+[Author]
+  name = "Fernando Ike"
+  email = "naestradadevops@gmail.com"
+
+
+[[menu.main]]
+    name = "Sobre"
+    url = "/page/sobre/"
+    weight = 3
+
+[[menu.main]]
+    name = "Contato"
+    url = "/page/contato/"
+    weight = 3
