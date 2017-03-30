@@ -3,12 +3,12 @@ date = "2017-03-28T11:38:46-03:00"
 author = "author"
 draft = false
 type = "page"
-title = "contato"
+title = "Perguntório"
 keywords = ["contato","perguntas"]
 description = "description"
 
 +++
-Se quiser mandar sugestão de tema ou perguntas para nós, pode usar o formulário abaixo ou entrar em contato conosco via nossas contas no Twitter: @eriksencosta e @fernandoike.
+Espaço para mandar perguntas, sugestão de assunto ou ajudar a pagar (a.k.a patrocínio) o leite das crianças. :-)
 
 
 <form method="POST" action="http://formspree.io/naestradadevops@gmail.com">
