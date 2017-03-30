@@ -9,7 +9,7 @@ disqusShortname = "naestradadevops"
 googleAnalytics = "UA-88288312-2"
 
 [Params]
-  subtitle = "Build a beautiful and simple website in minutes"
+  subtitle = "Uma conversar quase formal sobre DevOps"
   logo = "img/avatar-icon.png"
   favicon = "img/favicon.ico"
   dateFormat = "2 January, 2006"
