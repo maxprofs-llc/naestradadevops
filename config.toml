@@ -28,6 +28,6 @@ googleAnalytics = "UA-88288312-2"
     weight = 3
 
 [[menu.main]]
-    name = "Contato"
-    url = "/page/contato/"
+    name = "Perguntório"
+    url = "/page/perguntorio/"
     weight = 3
