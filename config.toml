@@ -10,8 +10,8 @@ googleAnalytics = "UA-88288312-2"
 
 [Params]
   subtitle = "Uma conversar quase formal sobre DevOps"
-  logo = "img/avatar-icon.png"
-  favicon = "img/favicon.ico"
+  logo = "M-15_centerline_1917_logo.jpg"
+  favicon = "M-15_centerline_1917_icon.ico"
   dateFormat = "2 January, 2006"
   commit = false
   rss = true
