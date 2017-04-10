@@ -1,14 +1,14 @@
 +++
 date = "2017-04-08T22:29:36-03:00"
-title = "Ep. - 002 - Monitoramento com Elastik Stack"
-tags = ["podcast", "monitoramento", "elastikstack", "zabbix", "nagios", "devops"]
+title = "Ep. - 002 - Monitoramento com Elastic Stack"
+tags = ["podcast", "monitoramento", "elasticstack", "zabbix", "nagios", "devops"]
 categories = ["podcast"]
-subtitle = "Eduardo Neves é o convidado para falar de Monitoramento com ElastikStack"
+subtitle = "Eduardo Neves é o convidado para falar de Monitoramento com Elastic Stack"
 draft = false
 +++
 ![](/health-846780.png)
 
-Voltamos para o episódio 002 - Monitoramento com ElastikStack.
+Voltamos para o episódio 002 - Monitoramento com Elastic Stack.
 
 Neste episódio apresentado por @eriksencosta e @fernandoike, convidamos [Eduardo Neves (Eth0)](https://twitter.com/_eth0_) para falar de como é monitoramento usando [Elastic Stack](https://www.elastic.co/v5) que anteriormente era conhecido como **ELK**. Entre outras coisas, comparamos com outras ferramentas, dicas de monitoramento, se ele é escalável ou não e muito mais.
 
