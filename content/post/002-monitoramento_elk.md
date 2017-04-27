@@ -6,7 +6,7 @@ categories = ["podcast"]
 subtitle = "Eduardo Neves é o convidado para falar de Monitoramento com Elastic Stack"
 draft = false
 +++
-![](/static/health-846780.png)
+![](/img/health-846780.png)
 
 Voltamos para o episódio 002 - Monitoramento com Elastic Stack.
 
