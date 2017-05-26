@@ -1,15 +1,14 @@
 +++
 date = "2017-03-28T11:38:46-03:00"
-author = "author"
+author = "Fernando Ike"
 draft = false
 type = "page"
-title = "Perguntório"
+title = "Contato"
 keywords = ["contato","perguntas"]
-description = "description"
+description = "Contato conosco"
 
 +++
-Espaço para mandar perguntas, sugestão de assunto ou ajudar a pagar (a.k.a patrocínio) o leite das crianças. :-)
-
+Espaço para mandar perguntas, sugestão de assunto ou comentários. Fique a vontade para preencher o formulário abaixo.
 
 <form method="POST" action="http://formspree.io/naestradadevops@gmail.com">
   <p>

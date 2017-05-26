@@ -8,10 +8,11 @@ draft = false
 +++
 ![](/img/tax-consultant.jpg)
 
-Voltamos depois de alguns dias para falar de um tema relativamente polêmico. Instituições públicas (Governos) são na maioria burocráticas e lentas. Neste episódio, Eriksen Costa e Fernando Ike debatem os casos de uso, barreiras burocráticas, regime de contratação, problemas culturais e muito mais. Os convidados deste episódio tem grande experiência no assunto pois todos trabalham, trabalharam ou prestam serviço para Governo Federal.
+Voltamos depois de alguns dias para falar de um tema relativamente polêmico. Instituições públicas (Governos) são na maioria burocráticas e lentas. Neste episódio, [Eriksen Costa ](https://twitter.com/eriksencosta)e [Fernando Ike](https://twitter.com/fernandoike) debatem os casos de uso, barreiras burocráticas, regime de contratação, problemas culturais, etc.
 
-Não temos certeza se conseguimos responder ou gerar mais dúvidas. Foi um longo debate sobre casos de uso, barreiras burocráticas, regime de contratação e muito mais.  convidamos Eduardo Santos que atualmente trabalha na Agência Espacial Brasileira, Adriano Vieira do Dataprev e Guto Carvalho da Instruct.
+Para nos ajudar neste debate, convidamos [Eduardo Santos](https://twitter.com/eduardosan) que atualmente trabalha na [Agência Espacial Brasileira](http://www.aeb.gov.br/), [Adriano Vieira](https://twitter.com/adriano_vieira) no [Dataprev](https://www.dataprev.gov.br) e [Guto Carvalho](https://twitter.com/gutocarvalho) na [Instruct](http://instruct.com.br/). Eles tem grande experiência no assunto pois todos trabalham, trabalharam ou prestam serviço para Governo Federal.
 
+Não temos certeza se conseguimos responder ou gerar mais dúvidas. Foi um bom e longo debate sobre casos de uso, barreiras burocráticas, regime de contratação e muito mais. Esperamos que gostem!
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/324606372&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
