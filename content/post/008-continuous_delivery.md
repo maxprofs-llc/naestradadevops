@@ -1,9 +1,9 @@
 +++
-subtitle: "Um papo com Eduardo Santos sobre Continuous Delivery"
-tags: ["devops", "continuous delivery", "lean", "agile"]
-title: "Ep. 008 - Continuous Delivery"
-date: 2017-07-27T23:35:25-03:00
-draft: false
+tags = ["devops", "continuous delivery", "lean", "agile"]
+title = "Ep. 008 - Continuous Delivery"
+date = 2017-07-27T23:35:25-03:00
+subtitle = "Um papo com Eduardo Santos sobre Continuous Delivery"
+draft = false
 +++
 ![](/img/ep_008.jpg)
 
