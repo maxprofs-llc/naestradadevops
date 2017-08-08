@@ -18,21 +18,18 @@ Se gostarem deste e dos outros episódios, não deixe de entrar em contato conos
 **Referências**:
 
 Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days
-
 - https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X/ref=sr_1_1?ie=UTF8&qid=1501205510&sr=8-1&keywords=sprint
 
 Design Sprint Kit
-
 - https://designsprintkit.withgoogle.com/
 
 Continuous Delivery
-
 - https://www.amazon.com/dp/0321601912?tag=contindelive-20
 
 10 deploys per day
-
 - https://pt.slideshare.net/jallspaw/10-deploys-per-day-dev-and-ops-cooperation-at-flickr
 
 The Deployment Production Line
-
 - https://continuousdelivery.com/wp-content/uploads/2011/04/deployment_production_line.pdf
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HvqByg5ouw0" frameborder="0" allowfullscreen></iframe>
