@@ -9,9 +9,9 @@ draft = false
 
 Olá queridos ouvintes, voltamos ao episódio 009 para uma resenha sobre DevSecOps. Este episódio teve uma baixa, o [Eriksen Costa ](https://twitter.com/eriksencosta)não pode participar mas certamente estará no próximo episódio. DevSecOps é um tem que tem se tornado mais recorrente nas rodas virtuais (internet) não sem razão. Afinal, Como pensar Segurança nas organizações que aplicam a cultura DevOps? Para responder esta e outras perguntas convidamos [Diana Arnos](https://twitter.com/dianaarnos) e [Bruno Dantas](https://www.linkedin.com/in/bdantas/).
 
-Diana é muitas coisas mas as que anotamos, tem uma banda de Metal, PHP developer, PHPWomen, Scrumaster... e usa Kali Linux como desktop padrão. Bruno Dantas trabalhou em diversos bancos e vivencia profundamente a segurança no contexto de DevOps em uma das mais tradicionais financeiras do país.
+Diana é muitas coisas mas as que anotamos, tem uma banda de Metal, PHP developer, PHPWomen, Scrumaster... e usa [Kali Linux](https://www.kali.org/) como desktop padrão. Bruno Dantas trabalhou em diversos bancos e vivencia profundamente a segurança no contexto de DevOps em uma das mais tradicionais financeiras do país.
 
-Esperamos que vocês gostem deste episódio tanto quanto foi divertido gravá-lo. Comentários, sugestões ou perguntas, vai ali em contato e mande para nós. :)
+Esperamos que vocês gostem deste episódio tanto quanto foi divertido gravá-lo. Comentários, sugestões ou perguntas, vai ali em [contato](https://www.naestradadevops.com/page/contato/) e mande para nós. :)
 
 **Referências**:
 
@@ -38,3 +38,6 @@ Snyk.io
 
 PHPWomen
 - https://phpwomen.org.br/
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lQEmifzIQC4" frameborder="0" allowfullscreen></iframe>
