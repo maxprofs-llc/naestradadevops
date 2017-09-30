@@ -3,7 +3,7 @@ subtitle = "Uma resenha sobre Design Thinking com Helene Romanzin e Julian Jorda
 tags = ["devops", "podcast", "design thinking", "agile"]
 title =  "Ep. 011 - Design Thinking"
 date = 2017-09-30T17:49:11-03:00
-draft = true
+draft = false
 +++
 ![](/img/ep_011.jpg)
 
