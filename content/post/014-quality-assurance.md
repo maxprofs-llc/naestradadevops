@@ -3,7 +3,7 @@ subtitle = "Um grande papo sobre Quality Assurance com Daniela Vieira e Karoline
 tags = ["devops", "podcast", "qa", "quality assurance"]
 title = "Ep. 014 - Quality Assurance"
 date = 2017-12-02T09:54:08-02:00
-draft = true
+draft = false
 +++
 ![](/img/ep_014.jpg)
 
